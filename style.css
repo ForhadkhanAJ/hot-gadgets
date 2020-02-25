@@ -36,21 +36,15 @@ body{
     border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
 }
-.h5 h3{
-    text-align: center;
-}
+
 .card-footer h5{
     text-align: center;
 }
-.cat-h3{
-    text-align: center;
-}
-
 .align-items-center {
     -ms-flex-align: center!important;
     align-items: center!important;
 }
-}#Subscribe{
+#Subscribe{
     height: 300px;
 }
 #Subscribe h6{
