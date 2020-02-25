@@ -20,3 +20,43 @@ body{
     cursor: pointer;
     padding: 9px 25px;
 }
+.card-footer{
+    background-color: white;
+    border-top: none;
+    
+
+    margin: 0 auto;
+    display: block;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.h5 h3{
+    text-align: center;
+}
+.card-footer h5{
+    text-align: center;
+}
+.cat-h3{
+    text-align: center;
+}
+
+.align-items-center {
+    -ms-flex-align: center!important;
+    align-items: center!important;
+}
+}#Subscribe{
+    height: 300px;
+}
+#Subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
+
